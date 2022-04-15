@@ -12,8 +12,6 @@ admins: [https://t.me/xxsalsaaaa]
 
 
 forwards:
-  - source: -1001337926477
-    dest: [-1001758517167]
   - source: -1001483038626
     dest: [-1001758517167]
   - source: -1001406430864
