@@ -8,27 +8,206 @@
 # AAHNIK 2021
 
 ########################################
+admins: [https://t.me/xxsalsaaaa]
+
 
 forwards:
-  # this section defines all the sources and destinations
-  - source: tg_cf # username/link/chatid of the source
-    dest: [me] # list of chat ids of the destinations
-    # me means, the messages will be saved in your Saved Messages in telegram
-    offset: 0 # from where to start (0 means from the first message of source)
-    # offset will automatically be updated when the program runs
-  # - source: -1001
-  #   dest: []
-  #   offset: 0
-  # add more sources if you wish
+  - source: -1001337926477
+    dest: [-1001758517167]
+  - source: -1001483038626
+    dest: [-1001758517167]
+  - source: -1001406430864
+    dest: [-1001758517167]
+  - source: -1001517090157
+    dest: [-1001758517167]
+  - source: -1001390339279
+    dest: [-1001758517167]
+  - source: -1001662627745
+    dest: [-1001758517167]
+  - source: -1001158093434
+    dest: [-1001758517167]
+  - source: -1001687156607
+    dest: [-1001758517167]
+  - source: -1001657021158
+    dest: [-1001758517167]
+  - source: -1001525312706
+    dest: [-1001758517167]
+  - source: -1001165552197
+    dest: [-1001758517167]
+  - source: -1001511713593
+    dest: [-1001758517167]
+  - source: -1001726349151
+    dest: [-1001758517167]
+  - source: -1001322310696
+    dest: [-1001758517167]
+  - source: -1001708641172
+    dest: [-1001758517167]
+  - source: -1001702291011
+    dest: [-1001758517167]
+  - source: -1001643474468
+    dest: [-1001758517167]
+  - source: -1001578907312
+    dest: [-1001758517167]
+  - source: -1001245126764
+    dest: [-1001758517167]
+  - source: -1001520848439
+    dest: [-1001758517167]
+  - source: -1001655825696
+    dest: [-1001758517167]
+  - source: -1001501148747
+    dest: [-1001758517167]
+  - source: -1001191414648
+    dest: [-1001758517167]
+  - source: -1001428557325
+    dest: [-1001758517167]
+  - source: -1001496805246
+    dest: [-1001758517167]
+  - source: -1001180329100
+    dest: [-1001758517167]
+  - source: -1001361628707
+    dest: [-1001758517167]
+  - source: -1001332603789
+    dest: [-1001758517167]
+  - source: -1001412601362
+    dest: [-1001758517167]
+  - source: -1001768016017
+    dest: [-1001758517167]
+  - source: -1001192438957
+    dest: [-1001758517167]
+  - source: -1002099884108
+    dest: [-1001758517167]
+  - source: -1001587834424
+    dest: [-1001758517167]
+  - source: -1001517583831
+    dest: [-1001758517167]
+  - source: -1001703570033
+    dest: [-1001758517167]
+  - source: -1001248188103
+    dest: [-1001758517167]
+  - source: -1001794405711
+    dest: [-1001758517167]
+  - source: -1001532235124
+    dest: [-1001758517167]
+  - source: -1001468095820
+    dest: [-1001758517167]
+  - source: -1001334189396
+    dest: [-1001758517167]
+  - source: -1001188813124
+    dest: [-1001758517167]
+  - source: -1001236633433
+    dest: [-1001758517167]
+  - source: -1001656360001
+    dest: [-1001758517167]
+  - source: -1001453768187
+    dest: [-1001758517167]
+  - source: -1001207601163
+    dest: [-1001758517167]
+  - source: -1001330375132
+    dest: [-1001758517167]
+  - source: -1001255657492
+    dest: [-1001758517167]
+  - source: -1001446556476
+    dest: [-1001758517167]
+  - source: -1001482779125
+    dest: [-1001758517167]
+  - source: -1001375098071
+    dest: [-1001758517167]
+  - source: -1001369223343
+    dest: [-1001758517167]
+  - source: -1001432612632
+    dest: [-1001758517167]
+  - source: -1001417309568
+    dest: [-1001758517167]
+  - source: -1001374700947
+    dest: [-1001758517167]
+  - source: -1001363948913
+    dest: [-1001758517167]
+  - source: -1001373310603
+    dest: [-1001758517167]
+  - source: -1001452759256
+    dest: [-1001758517167]
+  - source: -1001599021463
+    dest: [-1001758517167]
+  - source: -1001318162241
+    dest: [-1001758517167]
+  - source: -10036762068
+    dest: [-1001758517167]
+  - source: -1001185910559
+    dest: [-1001758517167]
+  - source: -1001565939413
+    dest: [-1001758517167]
+  - source: -1001387602043
+    dest: [-1001758517167]
+  - source: -1001281101714
+    dest: [-1001758517167]
+  - source: -1001233110935
+    dest: [-1001758517167]
+  - source: -1001639870421
+    dest: [-1001758517167]
+  - source: -1001744245910
+    dest: [-1001758517167]
+  - source: -1001457912511
+    dest: [-1001758517167]
+  - source: -1001632090023
+    dest: [-1001758517167]
+  - source: -1001175505419
+    dest: [-1001758517167]
+  - source: -1001383380232
+    dest: [-1001758517167]
+  - source: -1001270103362
+    dest: [-1001758517167]
+  - source: -1001005754981
+    dest: [-1001758517167]
+  - source: -1001548730894
+    dest: [-1001758517167]
+  - source: -1001560175426
+    dest: [-1001758517167]
+  - source: -100146875332
+    dest: [-1001758517167]
+  - source: -1001311904740
+    dest: [-1001758517167]
+  - source: -1001399965939
+    dest: [-1001758517167]
+  - source: -1001335346586
+    dest: [-1001758517167]
+  - source: -1001288210107
+    dest: [-1001758517167]
+  - source: -1001484044565
+    dest: [-1001758517167]
+  - source: -1001190405505
+    dest: [-1001758517167]
+  - source: -1001488803256
+    dest: [-1001758517167]
+  - source: -1001706990466
+    dest: [-1001758517167]
+  - source: -1001467347010
+    dest: [-1001758517167]
+  - source: -1001222910192
+    dest: [-1001758517167]
+  - source: -1001461795990
+    dest: [-1001758517167]
+  - source: -1001189268960
+    dest: [-1001758517167]
+  - source: -1001672552584
+    dest: [-1001758517167]
+  - source: -1001742517304
+    dest: [-1001758517167]
+  - source: -1001530133179
+    dest: [-1001758517167]
+  - source: -1001321440852
+    dest: [-1001758517167]
 
-past:
-  delay: 3 # wait for 3s after forwarding each message
 
+show_forwarded_from: false
+
+past: 
+     delay: 7
 plugins:
-  # specify the plugins you want to use
   filter:
     text:
-      blacklist: ["badword"]
+      blacklist: ["nope"]
+    files:
+      whitelist: [document,video,photo] 
 
 # read full documentation of plugins here https://git.io/J3NuC
 
