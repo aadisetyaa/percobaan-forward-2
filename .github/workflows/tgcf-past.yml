@@ -1,6 +1,6 @@
 name: tgcf-past
 
-on:
+off:
    schedule:
      - cron: 0 * * * *
     # run on the first day of every month
